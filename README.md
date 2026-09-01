@@ -12,6 +12,7 @@ I build open, auditable workflows that help AI agents move from script decisions
 - [Latest v1.3.0 release](https://github.com/62656456/ai-film-skills/releases/tag/v1.3.0)
 - [Storyboard Director 5.4.4 before/after example](https://github.com/62656456/ai-film-skills/blob/main/examples/storyboard-director-5.4.4-visible-camera-plan.md)
 - [Choose a Skill](https://github.com/62656456/ai-film-skills/blob/main/SKILL_CATALOG.md)
+- [Browse 18 stable Skills on skills.sh](https://skills.sh/62656456/ai-film-skills)
 
 ## Current focus
 
