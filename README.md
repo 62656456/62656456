@@ -1,5 +1,7 @@
 # AI filmmaking systems and Agent Skills
 
+[![Open Film Skills](https://raw.githubusercontent.com/62656456/ai-film-skills/main/docs/assets/social-preview.png)](https://github.com/62656456/ai-film-skills)
+
 I build open, auditable workflows that help AI agents move from script decisions to reusable visual assets, cinematic storyboards, generation prompts, production, and review.
 
 ## Open Film Skills
