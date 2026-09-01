@@ -9,6 +9,7 @@ I build open, auditable workflows that help AI agents move from script decisions
 **19 standalone Agent Skills for AI filmmaking across Codex, Claude Code, TRAE, CodeBuddy, WorkBuddy, and compatible hosts.**
 
 - [Website and playable media showcase](https://62656456.github.io/ai-film-skills/)
+- [Nine-image visual-language gallery](https://github.com/62656456/ai-film-skills#explore-the-visual-language)
 - [Repository](https://github.com/62656456/ai-film-skills)
 - [Latest v1.3.0 release](https://github.com/62656456/ai-film-skills/releases/tag/v1.3.0)
 - [Storyboard Director 5.4.4 before/after example](https://github.com/62656456/ai-film-skills/blob/main/examples/storyboard-director-5.4.4-visible-camera-plan.md)
